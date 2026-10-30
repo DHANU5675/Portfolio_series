@@ -168,7 +168,7 @@ The built application (`dist/` folder) is a pure static single-page application 
 - **Name:** Landa Dhanu Vara Prasad
 - **Role:** Full-Stack Developer (MERN) • DevOps & Cloud Enthusiast
 - **LinkedIn:** [linkedin.com/in/dhanuvaraprasad](https://www.linkedin.com/in/dhanuvaraprasad)
-- **GitHub:** [github.com/DHANU5675](https://github.com/DHANU5675)
+- **GitHub:** [github.com/dhanuvaraprasad](https://github.com/dhanuvaraprasad)
 - **Email:** [landa.dhanu7@gmail.com](mailto:landa.dhanu7@gmail.com)
 
 ---

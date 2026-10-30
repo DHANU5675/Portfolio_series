@@ -19,7 +19,7 @@ export const profile = {
   email: 'landa.dhanu7@gmail.com',
   links: {
     linkedin: 'https://www.linkedin.com/in/dhanuvaraprasad',
-    github: 'https://github.com/DHANU5675',
+    github: 'https://github.com/dhanuvaraprasad',
   },
   resumePdf: '/assets/L_DHANU_VARA_PRASAD.pdf',
   portrait: {
@@ -93,7 +93,7 @@ export const projects: Project[] = [
     genre: 'Full-Stack • Social • MERN',
     logline: 'A community-focused recipe platform with real-time communication and practical sharing tools.',
     stack: ['React', 'TypeScript', 'Node.js', 'MongoDB', 'Render'],
-    github: 'https://github.com/DHANU5675',
+    github: 'https://github.com/dhanuvaraprasad',
     build: [
       'Built a full-stack social recipe platform using React and TypeScript for the frontend, powered by a Node.js backend.',
       'Added real-time chat, story feeds, friend connections and live notifications to support community engagement.',
@@ -115,7 +115,7 @@ export const projects: Project[] = [
     genre: 'DevOps • AWS • Java',
     logline: 'An automated deployment workflow for a scalable multi-tier Java application.',
     stack: ['Java', 'Jenkins', 'Docker', 'Kubernetes', 'AWS', 'Terraform'],
-    github: 'https://github.com/DHANU5675',
+    github: 'https://github.com/dhanuvaraprasad',
     build: [
       'Set up an automated Jenkins CI/CD pipeline to handle builds, testing and deployments for a multi-tier Java application.',
       'Containerized microservices with Docker and deployed them to an Amazon EKS cluster for scalable, highly available operation.',

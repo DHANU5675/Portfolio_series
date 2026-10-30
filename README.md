@@ -107,7 +107,7 @@ npm -v
 
 ### 2. Clone and Install Dependencies
 ```bash
-git clone https://github.com/DHANU5675/Portfolio_series.git
+git clone https://github.com/dhanuvaraprasad/Portfolio_series.git
 cd Portfolio_series
 npm install
 ```
